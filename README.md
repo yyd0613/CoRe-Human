@@ -28,7 +28,7 @@ Uncertainty-Aware Adjustment via Learnable Coefficients for Detailed 3D Reconstr
 </p>
 
 <p align="center">
-  <img src="overview.pdf" alt="Overview" width="80%">
+  <img src="overview.png" alt="Overview" width="80%">
 </p>
 
 ---
