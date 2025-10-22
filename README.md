@@ -34,8 +34,11 @@ Uncertainty-Aware Adjustment via Learnable Coefficients for Detailed 3D Reconstr
 ---
 
 <p align="center">
-With a single RGB image as input, our method reconstructs detailed 3D clothed human meshes by introducing <b>Uncertainty-Aware Adjustment</b> through <b>Learnable Coefficients</b>.  
-This mechanism adaptively balances the reconstruction of tight and loose clothing regions, achieving high-fidelity geometry and robust pose alignment for real-world applications.
+We adopt an implicit function-based framework to reconstruct high-fidelity clothed human geometry
+from a single RGB image. Given an input image and the corresponding SMPL-X model, we first render multi-view normal maps and extract
+side-view features using a cross-attention mechanism. These features are then fused across views to obtain a unified spatial representation. To
+enhance robustness in loose clothing regions, we introduce a learnable dependency coefficient module, which adaptively adjusts the influence
+of the SDF. Finally, by integrating the fusion features, normal features, and the modulated SDF, we predict the final 3D mesh.
 </p>
 
 ---
