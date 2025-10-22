@@ -1,4 +1,4 @@
-name: sifu
+name: cora
 channels:
   - pytorch
   - nvidia
