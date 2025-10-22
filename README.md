@@ -3,7 +3,12 @@ Uncertainty-Aware Adjustment via Learnable Coefficients for Detailed 3D Reconstr
 </h1>
 
 <p align="center">
-<b>Yadan Yang<sup>1</sup>, Yunze Li<sup>1</sup>, Fangli Ying<sup>†1</sup>, Aniwat Phaphuangwittayakul<sup>2</sup>, and Riyad Dhuny<sup>3</sup></b>
+<b>
+Yadan Yang<sup>1</sup>, Yunze Li<sup>1</sup>, 
+<a href="https://fangli-ying.github.io/">Fangli Ying<sup>†1</sup></a>, 
+<a href="https://myweb.cmu.ac.th/aniwat.ph/">Aniwat Phaphuangwittayakul<sup>2</sup></a>, 
+and <a href="https://dhuny.org/">Riyad Dhuny<sup>3</sup></a>
+</b>
 </p>
 
 <p align="center">
